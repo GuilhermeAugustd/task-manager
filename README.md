@@ -1,10 +1,10 @@
-# Projeto Onboarding - ReactJS e Typescript - Gerenciador de Tarefas 
+# Projeto task-manager - ReactJS e Typescript - Gerenciador de Tarefas 
 
-Repositório de Treinamento de ReactJS e TypeScript para o Onboarding
+Este repositório trata-se de um teste técnico feito para a empresa bcopy sistemas ltda onde foi desenvolvido um gerenciador de tarefas em React.js e TypeScript.
 
 ## Instruções de Execução:
-1. Fazer o dowload do projeto e executar $ npm install para baixar os pacotes;
-2. Para executar o projeto : $ npm start
+1. Fazer o dowload do projeto e executar $ yarn install no terminal para baixar os pacotes;
+2. Para executar o projeto : $ yarn start
 3. Acessar localhost:3000/
 
 ## Como foi Feito:
