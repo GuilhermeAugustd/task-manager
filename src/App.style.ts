@@ -16,6 +16,7 @@ align-items: center;
 font-size: 16px;
 padding-bottom: 10px;
 margin-top: 0;
+color: #1e6b23;
 `;
 
 export const ItemContainer = styled.li`

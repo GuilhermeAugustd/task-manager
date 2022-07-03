@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { FaCheck, FaPlus, FaTimes, FaEdit } from "react-icons/fa";
-import { start } from "repl";
 import {
   ModalContent,
   ModalTitle,
@@ -55,7 +54,7 @@ function App() {
 
   function openInput() {
     setEditList(true)
-
+    console.log(editList)
   }
 
   return (
